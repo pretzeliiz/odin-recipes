@@ -1,4 +1,4 @@
-# Odin Recipes &#x1F4DD
+# Odin Recipes 📝
 
 Hihi! This is my first Odin project after learning HTML. It is just a simple recipes webpage using basic HTML skills I learned from the Odin curriculum. 
 
