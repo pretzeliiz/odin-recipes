@@ -1,14 +1,14 @@
-html{
+html {
     font-family: "Copperplate", sans-serif;
 }
 
-h1{
+h1 {
     text-align: center;
     font-weight: bold;
     font-size: 62px;
 }
 
-.content{
+.content {
     display:flex;
     flex-direction: row;
     justify-content: center;
@@ -16,7 +16,7 @@ h1{
     gap:5px;
    }
 
-.item{
+.item {
     display: flex;
     flex-direction: column;
     gap:5px;
@@ -26,20 +26,22 @@ h1{
     font-weight: lighter;
 }
 
-.item img:hover{
+.item img:hover {
     transform: scale(1.05);
     transition: all ease ;
     border-radius: 15px;
-    box-shadow: 0 0 5px rgb(216, 126, 121);
+    /* box-shadow: 0 0 5px rgb(169,76,64); */
+    box-shadow: 0 0 10px olive;
 }
 
-div img{
+div img {
     width: 350px;
     height: 350px;
 }
 
-.deco-images{
-    text-align: center;
+.images {
     width: auto;
-    height: 200px
+    height: 200px;
+    text-align: center;
+
 }
